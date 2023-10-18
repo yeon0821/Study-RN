@@ -12,4 +12,15 @@ const user: User = {
     age: 18
 }
 
+interface Tlqkf{
+    test: String
+    fuck: String
+}
+
+const tlqkf: Tlqkf = {
+    test: 'tlqkf',
+    fuck: 'fuck'
+}
+
 console.log(user)
+console.log(tlqkf)

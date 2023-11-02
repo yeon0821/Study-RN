@@ -76,3 +76,23 @@ console.log(userB.parent.name)
 const usres = [userA, userB]
 
 console.log(usres[0]['name'])
+
+
+function hello() {
+    console.log('Hello')
+}
+
+hello()
+
+//Function
+
+const A = function () {
+    console.log('A')
+}
+
+const B = function (c) {
+    console.log(c)
+    c()
+}
+
+B(A)

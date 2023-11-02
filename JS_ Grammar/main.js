@@ -36,3 +36,8 @@ setTimeout(function (){
     console.log(age)
 }, 1000)
 
+//Array
+const fruits = ['Apple', 'Banana', 'Cherry']
+
+console.log(fruits[fruits.length - 1])
+

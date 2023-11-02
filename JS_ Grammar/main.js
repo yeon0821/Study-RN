@@ -18,3 +18,21 @@ const b = 0.2
 console.log(((a + b).toFixed(1))) // 0,3
 
 
+// Boolean
+const a1 = true
+const b1 = false
+
+if(a1) {
+    console.log('Hello')
+}
+
+// null & undefined
+let age
+
+console.log(age)
+
+setTimeout(function (){
+    age = 100
+    console.log(age)
+}, 1000)
+

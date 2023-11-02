@@ -41,3 +41,38 @@ const fruits = ['Apple', 'Banana', 'Cherry']
 
 console.log(fruits[fruits.length - 1])
 
+//Object
+ 
+// const user = new Object()
+// user.name = 'KIM'
+// user.age = 10
+
+// console.log(user)
+
+
+// function User() {
+//     this.name = 'Kim'
+//     this.age = 20
+// }
+// const user = new User()
+
+// console.log(user)
+// console.log(user['name'])
+
+
+const userA = {
+    name: 'Yeonu',
+    age: 20
+}
+
+const userB = {
+    name: 'Woo',
+    age: 18,
+    parent: userA
+}
+
+console.log(userB.parent.name)
+
+const usres = [userA, userB]
+
+console.log(usres[0]['name'])

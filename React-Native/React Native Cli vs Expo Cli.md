@@ -20,6 +20,18 @@
 > 3. `expo login`
 > 4. `yarn start or npm start or expo start`
 
+## 1. Expo로 개발한 앱들
+
+![img](https://velog.velcdn.com/images%2Feassy%2Fpost%2Fc7bdd9e6-0ea4-4a40-adb9-c1537f4dba3b%2F1_3o8TOSojT64ChGpjop0USA.png)
+
+→ 먼저 작은 규모의 앱에 적합하다는 것에서, 그 규모가 어느정도 인지 확인해보기 위해 실제 Expo CLI로 구축되어 출시된 앱들을 찾아보았다.
+
+> 1. [Discord](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746) - 게이머 및 커뮤니티를 위한 채팅 및 음성 앱
+> 2. [Skyscanner](https://apps.apple.com/us/app/skyscanner-travel-deals/id415458524) - 사용자가 항공편, 호텔 및 렌터카를 찾을 수 있도록 도와주는 여행 앱
+> 3. [Chowbus](https://apps.apple.com/us/app/chowbus-asian-food-delivery/id1053160529) - 아시아 요리 전문 식품 배달 앱.
+> 4. [Coinbase](https://apps.apple.com/us/app/coinbase-buy-bitcoin-ether/id886427730)-암호화 환전 및 지갑.
+> 5. [Swish](https://apps.apple.com/us/app/swish-payments/id563204724) -스웨덴 사용자를위한 모바일 결제 앱.
+
 # React Native CLI
 
 expo와 같은 툴을 사용하지 않고 React Native만을 이용해서 개발하는 방법이다.
